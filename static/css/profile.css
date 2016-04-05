@@ -1,0 +1,49 @@
+
+.profile-panel .profile-info {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.profile-panel .profile-stats-info a {
+    font-size: 24px;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #79859b;
+}
+
+.profile-panel .user-name {
+    margin-top: 10px;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.profile-panel .profile-avatar img {
+    border-radius: 50%;
+}
+
+.profile-avatar {
+    border-radius: 50%;
+    padding: 10px;
+    border: 1px solid #e7e7e2;
+    float: left;
+}
+
+.panel-heading .white-content {
+    color: #768399;
+    background: #fff;
+    background-color: #fff;
+}
+
+.white-content {
+    color: #768399;
+    background: #fff;
+    background-color: #fff;
+}
+.p-left {
+    padding-left: 0!important;
+}
+
+.p-right {
+    padding-right: 0!important;
+}
